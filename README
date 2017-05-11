@@ -1,0 +1,45 @@
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||| README ||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Summary :
+---------
+Crazy Old Guy is a video game created for the C++ Rush of EPITA in December
+2015. This game is a stealth game which has as a purpose to check what we learn
+after the workshop week of C++.
+
+To help us in the creation of our project, we used SFML to handle various
+information of the game as the window, the time, and so on..
+
+
+Synopsys :
+----------
+In "Crazy Old Guy", you embody an old man who just discovered a way to become
+invisible. Thus, he tries to escape the CIA that want to capture him, due to
+his discovery.
+
+
+Gameplay :
+----------
+The whole point of the game is based on this ability and to win,
+you must go from one side of the room to the other, while avoiding the enemies
+in your way and the different lasers. However, be careful because your
+power is limited and at some point, it will be totally over (and not usable
+anymore). If this happens, you still have a change to escape your enemies
+thanks to wholes in the walls in which you can hide (by pressing E).
+
+
+Others :
+--------
+It is also possible to change the costume for aestethic reasons, by pressing
+the Q key.
+
+
+Side note :
+-----------
+Thank you for playing this game, in which we put all of our heart and that
+make us proud !
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
